@@ -1,0 +1,8 @@
+# Intellij Idea
+/*.iml
+/*.ipr
+/*.iws
+/.idea/
+
+#node
+/node_modules/
